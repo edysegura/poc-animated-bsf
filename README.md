@@ -16,7 +16,6 @@ Add new element in array: nodes
 Add a new element in array: edges
 
 ```javascript
->>>>>>> Initial Commit
 elements: {
       nodes: [
         { data: { id: 'a' } },
