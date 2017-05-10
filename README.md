@@ -1,6 +1,6 @@
 ## CytoSpace - Animated BFS
 
-# Proof of Concept - [CytoSpace](http://js.cytoscape.org/) - [Animated BFS](http://js.cytoscape.org/demos/7e2f4d29ff7ef1a1bba5/)
+# Proof of Concept - [CytoSpace](http://js.cytoscape.org/) - [nodes](http://js.cytoscape.org/demos/7e2f4d29ff7ef1a1bba5/)
 
 This POC take 6 points and link them. 
 I link one point to many and many points to one.
