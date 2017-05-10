@@ -5,7 +5,7 @@
 This POC take 6 points and link them. 
 I link one point to many and many points to one.
 
-![screenshot](Screenshot_1.png)
+![screenshot](screenshot.png)
 
 # Add nodes
 
